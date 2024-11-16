@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="left">
+  
+[![ToolJet Template Trailblazer](https://logo-badges.tooljet.com/Template-Template-Badge.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
+
+</div>
